@@ -39,7 +39,7 @@ struct parameters{
 
 
 void binaryH();
-void binaryYaz();
+void binaryYaz(uint8_t value);
 
 int main() {
     int gRangeChoice, bandwidthChoice, operationModeChoice;

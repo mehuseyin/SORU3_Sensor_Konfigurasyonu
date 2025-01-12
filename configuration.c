@@ -38,6 +38,8 @@ struct parameters{
 
 
 
+void binaryH();
+void binaryYaz();
 
 int main() {
     int gRangeChoice, bandwidthChoice, operationModeChoice;
